@@ -1,4 +1,4 @@
-import time 
+import time
 
 myTime = int(input("please enter time ins seconds: "))
 
